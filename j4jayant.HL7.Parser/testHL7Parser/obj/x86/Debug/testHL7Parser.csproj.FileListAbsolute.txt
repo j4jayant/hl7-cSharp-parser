@@ -1,0 +1,11 @@
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\bin\Debug\testHL7Parser.exe
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\bin\Debug\testHL7Parser.pdb
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\bin\Debug\j4jayant.HL7.Parser.dll
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\bin\Debug\j4jayant.HL7.Parser.pdb
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\testHL7Parser.Form1.resources
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\testHL7Parser.Properties.Resources.resources
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\testHL7Parser.exe
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\testHL7Parser\obj\x86\Debug\testHL7Parser.pdb

@@ -1,0 +1,5 @@
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Release\j4jayant.HL7.Parser.dll
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Release\j4jayant.HL7.Parser.pdb
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Release\j4jayant.HL7.Parser.dll
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Release\j4jayant.HL7.Parser.pdb
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Release\j4jayant.HL7.Parser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Debug\j4jayant.HL7.Parser.dll
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Debug\j4jayant.HL7.Parser.pdb
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Debug\j4jayant.HL7.Parser.dll
+D:\Jayant\Jayant\My Projects\HL7\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Debug\j4jayant.HL7.Parser.pdb
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Debug\j4jayant.HL7.Parser.dll
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\j4jayant.HL7.Parser\bin\Debug\j4jayant.HL7.Parser.pdb
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Debug\j4jayant.HL7.Parser.dll
+C:\Users\jayant\Desktop\My Projects\j4jayant.HL7.Parser\j4jayant.HL7.Parser\obj\Debug\j4jayant.HL7.Parser.pdb
